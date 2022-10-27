@@ -1,4 +1,4 @@
-# 🌈 Final ProJect
+# 🌈 Final ProJect - 감성분석 Sentiment-Analysis_NLP
 
 ### ✅ 감성분석을 이용한 오픈마켓 리뷰 분석 
 
