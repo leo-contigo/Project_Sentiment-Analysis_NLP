@@ -24,10 +24,10 @@ https://corpus.korean.go.kr/main.do
 
 ---
 ## ✅ 실습 예제 
-#### 🎦 네이버 영화 리뷰 감성 분류하기 (Naver Movie Review Sentiment Analysis)
+#### 👛 네이버 쇼핑 리뷰 감성 분류하기 (Naver Shopping Review Sentiment Analysis)
 
-  - 📙 위키독스 : 딥 러닝을 이용한 자연어 처리 입문  <a href="https://wikidocs.net/44249">
-    <img src="http://img.shields.io/badge/-wikidocs-black?style=flat&logo=BookStack&link=https://wikidocs.net/44249"
+  - 📙 위키독스 : 딥 러닝을 이용한 자연어 처리 입문  <a href="https://wikidocs.net/94600">
+    <img src="http://img.shields.io/badge/-wikidocs-black?style=flat&logo=BookStack&link=https://wikidocs.net/94600"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> <a href="https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%87%BC%ED%95%91%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D(Naver%20Movie%20Review%20Sentiment%20Analysis).ipynb">
     <img 
         src="http://img.shields.io/badge/-Colab-black?style=flat&logo=Google Colab&link=https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%87%BC%ED%95%91%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D(Naver%20Movie%20Review%20Sentiment%20Analysis).ipynb"
