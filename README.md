@@ -19,7 +19,10 @@
 <br>
 👉 한국어 형태소 분석기 Okt() ;트위터에서 만든 오픈소스 한국어 분석기를 이용해 수집한 리뷰데이터 전체를 분석.
 <br>        
-　- # 키워드 : 부사, 형용사, 동사만 뽑아서 상위 10개 선택 <img src="http://img.shields.io/badge/-Colab-4f524b?style=flat&logo=Google Colab&link=https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/NLP_%ED%82%A4%EC%9B%8C%EB%93%9C%2B%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(word%20cloud).ipynb" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+　- # 키워드 : 부사, 형용사, 동사만 뽑아서 상위 10개 선택 <a href="https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/NLP_%ED%82%A4%EC%9B%8C%EB%93%9C%2B%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(word%20cloud).ipynb">
+    <img 
+        src="http://img.shields.io/badge/-Colab-4f524b?style=flat&logo=Google Colab&link=https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/NLP_%ED%82%A4%EC%9B%8C%EB%93%9C%2B%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(word%20cloud).ipynb"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
  <br>
 　- # 워드클라우드 : 명사만 
 <br>
