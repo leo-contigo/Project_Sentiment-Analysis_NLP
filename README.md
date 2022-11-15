@@ -10,7 +10,7 @@
 <br>
 <br>
 👉 위키독스 『딥 러닝을 이용한 자연어 처리 입문』  <a href="https://wikidocs.net/94600">
-    <img src="http://img.shields.io/badge/-wikidocs-black?style=flat&logo=BookStack&link=https://wikidocs.net/94600" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>       
+    <img src="http://img.shields.io/badge/-wikidocs-4f524b?style=flat&logo=BookStack&link=https://wikidocs.net/94600" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>       
 <br>
 　- 10-7 : 네이버 쇼핑 리뷰 감성 분류하기을 이용해 수집한 리뷰데이터 긍정 / 부정 라벨링 하기<br>
 
@@ -18,8 +18,8 @@
 <br>
 <br>
 👉 한국어 형태소 분석기 Okt() ;트위터에서 만든 오픈소스 한국어 분석기를 이용해 수집한 리뷰데이터 전체를 분석.
-<br>
-　- # 키워드 : 부사, 형용사, 동사만 뽑아서 상위 10개 선택
+<br>        
+　- # 키워드 : 부사, 형용사, 동사만 뽑아서 상위 10개 선택 <img src="http://img.shields.io/badge/-Colab-4f524b?style=flat&logo=Google Colab&link=https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/NLP_%ED%82%A4%EC%9B%8C%EB%93%9C%2B%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(word%20cloud).ipynb" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
  <br>
 　- # 워드클라우드 : 명사만 
 <br>
@@ -30,10 +30,10 @@
 #### 👛 네이버 쇼핑 리뷰 감성 분류하기 (Naver Shopping Review Sentiment Analysis)
 
   - 📙 위키독스 : 딥 러닝을 이용한 자연어 처리 입문  <a href="https://wikidocs.net/94600">
-    <img src="http://img.shields.io/badge/-wikidocs-black?style=flat&logo=BookStack&link=https://wikidocs.net/94600"
+    <img src="http://img.shields.io/badge/-wikidocs-4f524b?style=flat&logo=BookStack&link=https://wikidocs.net/94600"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/> <a href="https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%87%BC%ED%95%91%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D(Naver%20Movie%20Review%20Sentiment%20Analysis).ipynb">
     <img 
-        src="http://img.shields.io/badge/-Colab-black?style=flat&logo=Google Colab&link=https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%87%BC%ED%95%91%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D(Naver%20Movie%20Review%20Sentiment%20Analysis).ipynb"
+        src="http://img.shields.io/badge/-Colab-4f524b?style=flat&logo=Google Colab&link=https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%87%BC%ED%95%91%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D(Naver%20Movie%20Review%20Sentiment%20Analysis).ipynb"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 <br>
