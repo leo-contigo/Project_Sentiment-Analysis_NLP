@@ -1,4 +1,4 @@
-# 🌌 Final ProJect - 감성분석 Sentiment-Analysis_NLP
+# 🌌 Final ProJect 3- 감성분석 Sentiment-Analysis_NLP
 
 ### ✅ 감성분석을 이용한 오픈마켓 리뷰 분석
 - 상품에 대한 리뷰들이 너무 많아 파악하기 어려움.
@@ -9,15 +9,18 @@
 　수집한 데이터 .. 너무 많음......😱
 <br>
 <br>
-👉 위키독스 『딥 러닝을 이용한 자연어 처리 입문』  <a href="https://wikidocs.net/94600">
-    <img src="http://img.shields.io/badge/-wikidocs-4f524b?style=flat&logo=BookStack&link=https://wikidocs.net/94600" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>       
-<br>
-　- 10-7 : 네이버 쇼핑 리뷰 감성 분류하기을 이용해 수집한 리뷰데이터 긍정 / 부정 라벨링 하기<br>
 
-　- 라벨링 한 데이터를 가지고 긍부정 모델 만들기 - 학습 모델 : 'Koelectra' 
+### **👉 위키독스 『딥 러닝을 이용한 자연어 처리 입문』**
+<a href="https://wikidocs.net/94600">
+    <img src="http://img.shields.io/badge/-wikidocs-4f524b?style=flat&logo=BookStack&link=https://wikidocs.net/94600" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+<br>  
+
+　- **10-7 : 네이버 쇼핑 리뷰 감성 분류하기을 이용해 수집한 리뷰데이터 긍정 / 부정 라벨링 하기**<br>
+　- **라벨링 한 데이터를 가지고 긍부정 모델 만들기 - 학습 모델 : 'Koelectra'** 
 <br>
 <br>
-👉 한국어 형태소 분석기 Okt() ;트위터에서 만든 오픈소스 한국어 분석기를 이용해 수집한 리뷰데이터 전체를 분석.
+### **👉 한국어 형태소 분석기 Okt()**
+    - 트위터에서 만든 오픈소스 한국어 분석기를 이용해 수집한 리뷰데이터 전체를 분석.
 <br>        
 　- # 키워드 : 부사, 형용사, 동사만 뽑아서 상위 10개 선택 <a href="https://github.com/leo-contigo/Project_Sentiment-Analysis_NLP/blob/main/NLP_%ED%82%A4%EC%9B%8C%EB%93%9C%2B%EC%9B%8C%EB%93%9C%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C(word%20cloud).ipynb">
     <img 
