@@ -1,4 +1,4 @@
-# 🌈 Final ProJect - 감성분석 Sentiment-Analysis_NLP
+# 🌌 Final ProJect - 감성분석 Sentiment-Analysis_NLP
 
 ### ✅ 감성분석을 이용한 오픈마켓 리뷰 분석
 - 상품에 대한 리뷰들이 너무 많아 파악하기 어려움.
