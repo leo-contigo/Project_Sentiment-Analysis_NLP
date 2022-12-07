@@ -48,7 +48,8 @@
 
 ---
 ### 🌌 공모전은... ㅜㅜ <br>
-- 모두의 말뭉치 공모전 https://corpus.korean.go.kr/main.do<br>
+- 모두의 말뭉치 『2022 국립국어원 인공 지능 언어 능력 평가』 
+- https://corpus.korean.go.kr/main.do<br>
 - 다음에 더 잘해보는 걸로 !!
 <br>
 <br>
